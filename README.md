@@ -1,4 +1,4 @@
-<h1>Hi There, I am Mohan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am Mohan <img  src="assets/hi.gif" width="30px"></h1>
 
 <p>My passion lies in the realm of cutting-edge technologies such as Machine Learning, Deep Learning, and Data Science. I'm currently working as a NLP Engineer at <a href="https://textify.ai/">Textify AI</a></p>
 
