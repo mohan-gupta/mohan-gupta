@@ -11,7 +11,7 @@
 <h4>Preferred Languages</h4>
 <p><img src="assets/python.png">&nbsp&nbsp<img src="assets/c++.png", width="48", height="48"></p>
 <h4>Databases</h4>
-<img src="assets/mysql.png", width="48", height="48">&nbsp&nbsp<img src="assets/mongodb.png", width="48", height="48">&nbsp&nbsp
+<p><img src="assets/mysql.png", width="48", height="48">&nbsp&nbsp<img src="assets/mongodb.png", width="48", height="48"></p>
 <h4>Data Processing and Visualization</h4>
 <p><img src="assets/numpy.png", width="48", height="48">&nbsp&nbsp<img src="assets/pandas.png", width="48", height="48">&nbsp&nbsp<img src="assets/matplotlib.png", width="60", height="48">&nbsp&nbsp<img src="assets/seaborn.svg", width="48", height="48">&nbsp&nbsp<img src="assets/plotly.png", width="90", height="48"></p>
 <h4>ML/DL</h4>
