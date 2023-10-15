@@ -9,19 +9,19 @@
 
 <h3>Skills</h3>
 <h4>Preferred Languages</h4>
-<img src="assets/python.png">&nbsp&nbsp<img src="assets/c++.png", width="48", height="48">&nbsp&nbsp
+<p><img src="assets/python.png">&nbsp&nbsp<img src="assets/c++.png", width="48", height="48"></p>
 <h4>Databases</h4>
 <img src="assets/mysql.png", width="48", height="48">&nbsp&nbsp<img src="assets/mongodb.png", width="48", height="48">&nbsp&nbsp
 <h4>Data Processing and Visualization</h4>
-<img src="assets/numpy.png", width="48", height="48">&nbsp&nbsp<img src="assets/pandas.png", width="48", height="48">&nbsp&nbsp<img src="assets/matplotlib.png", width="60", height="48">&nbsp&nbsp<img src="assets/seaborn.svg", width="48", height="48">&nbsp&nbsp<img src="assets/plotly.png", width="90", height="48">&nbsp&nbsp
+<p><img src="assets/numpy.png", width="48", height="48">&nbsp&nbsp<img src="assets/pandas.png", width="48", height="48">&nbsp&nbsp<img src="assets/matplotlib.png", width="60", height="48">&nbsp&nbsp<img src="assets/seaborn.svg", width="48", height="48">&nbsp&nbsp<img src="assets/plotly.png", width="90", height="48"></p>
 <h4>ML/DL</h4>
-<img src="assets/sklearn.png", width="80", height="48">&nbsp&nbsp<img src="assets/pytorch.png", width="48", height="48">&nbsp&nbsp<img src="assets/huggingface.png", width="90", height="48">&nbsp&nbsp<img src="assets/tensorflow.png", width="48", height="48">&nbsp&nbsp<img src="assets/keras.png", width="48", height="48">&nbsp&nbsp<img src="assets/opencv.png", width="48", height="48">&nbsp&nbsp<img src="assets/scipy.png", width="48", height="48">&nbsp&nbsp
+<p><img src="assets/sklearn.png", width="80", height="48">&nbsp&nbsp<img src="assets/pytorch.png", width="48", height="48">&nbsp&nbsp<img src="assets/huggingface.png", width="90", height="48">&nbsp&nbsp<img src="assets/tensorflow.png", width="48", height="48">&nbsp&nbsp<img src="assets/keras.png", width="48", height="48">&nbsp&nbsp<img src="assets/opencv.png", width="48", height="48">&nbsp&nbsp<img src="assets/scipy.png", width="48", height="48"></p>
 <h4>Backend</h4>
-<img src="assets/fastapi.png", width="80", height="48">&nbsp&nbsp<img src="assets/flask.png", width="48", height="48">&nbsp&nbsp
+<p><img src="assets/fastapi.png", width="80", height="48">&nbsp&nbsp<img src="assets/flask.png", width="48", height="48"></p>
 <h4>Web Scrapping</h4>
-<img src="assets/bs4.jpg", width="80", height="48">&nbsp&nbsp<img src="assets/scrapy.png", width="48", height="48">&nbsp&nbsp
+<p><img src="assets/bs4.jpg", width="80", height="48">&nbsp&nbsp<img src="assets/scrapy.png", width="48", height="48"></p>
 <h4>Tools and IDEs</h4>
-<img src="assets/docker.png", width="48", height="48">&nbsp&nbsp<img src="assets/jupyter.png", width="48", height="48">&nbsp&nbsp<img src="assets/vscode.png", width="48", height="48">&nbsp&nbsp<img src="assets/pycharm.svg", width="48", height="48">&nbsp&nbsp
+<p><img src="assets/docker.png", width="48", height="48">&nbsp&nbsp<img src="assets/jupyter.png", width="48", height="48">&nbsp&nbsp<img src="assets/vscode.png", width="48", height="48">&nbsp&nbsp<img src="assets/pycharm.svg", width="48", height="48"></p>
 
 
 <h3>Recent Posts</h3>
