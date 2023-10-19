@@ -9,7 +9,8 @@
 
 <h3>Skills</h3>
 <h4>Preferred Languages</h4>
-<p>![Static Badge](https://img.shields.io/badge/-Python-eee?logo=python&logoColor=blue&color=black)&nbsp&nbsp<img src="https://img.shields.io/badge/-C%2B%2B-eee?logo=c%2B%2B&logoColor=blue&color=black
+<img alt="Static Badge" src="https://img.shields.io/badge/-Python-eee?logo=python&logoColor=blue&color=black">
+&nbsp&nbsp<img src="https://img.shields.io/badge/-C%2B%2B-eee?logo=c%2B%2B&logoColor=blue&color=black
 "></p>
 <h4>Databases</h4>
 <p><img src="https://img.shields.io/badge/-MySQL-eee?logo=mysql&logoColor=white&color=black
