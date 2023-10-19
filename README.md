@@ -10,12 +10,11 @@
 <h3>Skills</h3>
 <h4>Preferred Languages</h4>
 <img alt="Static Badge" src="https://img.shields.io/badge/-Python-eee?logo=python&logoColor=blue&color=black">
-&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-eee?logo=c%2B%2B&logoColor=blue&color=black
-"></p>
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-eee?logo=c%2B%2B&logoColor=blue&color=black">
+</p>
 <h4>Databases</h4>
 <p><img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-eee?logo=mysql&logoColor=white&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-eee?logo=mongodb&logoColor=green&color=black
-"></p>
+">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-eee?logo=mongodb&logoColor=green&color=black"></p>
 <h4>Data Processing and Visualization</h4>
 <p><img alt="Static Badge" src="https://img.shields.io/badge/-Numpy-eee?logo=numpy&logoColor=blue&color=black
 ">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Pandas-eee?logo=pandas&logoColor=blue&color=black
