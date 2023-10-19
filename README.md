@@ -9,41 +9,34 @@
 
 <h3>Skills</h3>
 <h4>Preferred Languages</h4>
-<img alt="Static Badge" src="https://img.shields.io/badge/-Python-eee?logo=python&logoColor=blue&color=black">
+<p><img alt="Static Badge" src="https://img.shields.io/badge/-Python-eee?logo=python&logoColor=blue&color=black">
 &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-eee?logo=c%2B%2B&logoColor=blue&color=black">
 </p>
 <h4>Databases</h4>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-eee?logo=mysql&logoColor=white&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-eee?logo=mongodb&logoColor=green&color=black"></p>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-eee?logo=mysql&logoColor=white&color=black">
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-eee?logo=mongodb&color=black">
+</p>
 <h4>Data Processing and Visualization</h4>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/-Numpy-eee?logo=numpy&logoColor=blue&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Pandas-eee?logo=pandas&logoColor=blue&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Seaborn-black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Plotly-eee?logo=plotly&logoColor=blue&color=black
-"></p>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/-NumPy-eee?logo=numpy&logoColor=blue&color=black">
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Pandas-eee?logo=pandas&logoColor=blue&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Seaborn-black">
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Plotly-eee?logo=plotly&logoColor=blue&color=black"></p>
 <h4>ML/DL</h4>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/-Scikit--Learn-eee?logo=scikitlearn&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyTorch-eee?logo=pytorch&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Tensorflow-eee?logo=tensorflow&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Keras-eee?logo=keras&logoColor=red&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-OpenCV-eee?logo=opencv&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Scipy-eee?logo=scipy&color=black
-"></p>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/-Scikit--Learn-eee?logo=scikitlearn&color=black">
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyTorch-eee?logo=pytorch&color=black">
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-TensorFlow-eee?logo=tensorflow&color=black">
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Keras-eee?logo=Keras&logoColor=red&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-OpenCV-eee?logo=opencv&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Scipy-eee?logo=scipy&color=black">
+</p>
 <h4>Backend</h4>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/-FastAPI-eee?logo=fastapi&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Flask-eee?logo=flask&color=black
-"></p>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/-FastAPI-eee?logo=fastapi&color=black">
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Flask-eee?logo=flask&color=black">
+</p>
 <h4>Web Scrapping</h4>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/-Beautiful%20Soup-eee?color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Scrapy-eee?color=black
-"></p>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/Beautiful%20Soup-black">
+&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Scrapy-black">
+</p>
 <h4>Tools and IDEs</h4>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Vs%20Code-eee?logo=visualstudiocode&logoColor=blue&color=black
-">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyCharm-eee?logo=pycharm&logoColor=%23dbf567&color=black
-"></p>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Vs%20Code-eee?logo=visualstudiocode&logoColor=blue&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyCharm-eee?logo=pycharm&logoColor=%237dfa9e&color=black">
+</p>
 
 
 <h3>Recent Posts</h3>
