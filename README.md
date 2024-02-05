@@ -35,7 +35,7 @@
 &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Scrapy-black">
 </p>
 <h4>Tools and IDEs</h4>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Kubernetes-eee?logo=kubernetes&logoColor=blue&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Vs%20Code-eee?logo=visualstudiocode&logoColor=blue&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyCharm-eee?logo=pycharm&logoColor=%237dfa9e&color=black">
+<p><img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Kubernetes-eee?logo=kubernetes&logoColor=blue&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Github%20Actions-eee?logo=github%20actions&logoColor=blue&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Vs%20Code-eee?logo=visualstudiocode&logoColor=blue&color=black">&nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyCharm-eee?logo=pycharm&logoColor=%237dfa9e&color=black">
 </p>
 
 
