@@ -32,9 +32,16 @@
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-TensorFlow-eee?logo=tensorflow&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Keras-eee?logo=Keras&logoColor=red&color=black">
-  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MLflow-eee?logo=mlflow&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-OpenCV-eee?logo=opencv&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Scipy-eee?logo=scipy&color=black">
+</p>
+<h4>MLOPs</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Kubernetes-eee?logo=kubernetes&logoColor=blue&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Github%20Actions-eee?logo=github%20actions&logoColor=blue&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MLflow-eee?logo=mlflow&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-DVC-eee?logo=dvc&color=black">
 </p>
 <h4>Backend</h4>
 <p>
@@ -46,12 +53,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Beautiful%20Soup-black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Scrapy-black">
 </p>
-<h4>Tools and IDEs</h4>
+<h4>IDEs</h4>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black">
-  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Kubernetes-eee?logo=kubernetes&logoColor=blue&color=black">
-  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Github%20Actions-eee?logo=github%20actions&logoColor=blue&color=black">
-  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Vs%20Code-eee?logo=visualstudiocode&logoColor=blue&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyCharm-eee?logo=pycharm&logoColor=%237dfa9e&color=black">
 </p>
