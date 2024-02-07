@@ -40,6 +40,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Kubernetes-eee?logo=kubernetes&logoColor=blue&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Github%20Actions-eee?logo=github%20actions&logoColor=blue&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Weights_&_Biases-eee?&logo=WeightsAndBiases&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MLflow-eee?logo=mlflow&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-DVC-eee?logo=dvc&color=black">
 </p>
