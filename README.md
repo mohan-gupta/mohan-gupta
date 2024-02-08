@@ -56,8 +56,8 @@
 </p>
 <h4>IDEs</h4>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black">
-  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Vs%20Code-eee?logo=visualstudiocode&logoColor=blue&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Vs%20Code-eee?logo=visualstudiocode&logoColor=blue&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyCharm-eee?logo=pycharm&logoColor=%237dfa9e&color=black">
 </p>
 
