@@ -4,7 +4,7 @@
 
 - 📚 I’m currently working with LLMs.
 - 🤝 Open for collaboration in <b>NLP</b> and <b>Computer Vision</b>.
-- 🕸️ Visit my porfolio [website](https://mohan-gupta.github.io/) for more info.
+- 🕸️ Visit my [website](https://mohan-gupta.github.io/) for more info.
 - 📫 Contact me: mohankrishnagupta@gmail.com
 
 <h3>Skills</h3>
@@ -37,7 +37,8 @@
 </p>
 <h4>MLOPs</h4>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-AWS-eee?logo=amazon-aws&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Docker-eee?logo=docker&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Kubernetes-eee?logo=kubernetes&logoColor=blue&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Github%20Actions-eee?logo=github%20actions&logoColor=blue&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Weights_&_Biases-eee?&logo=WeightsAndBiases&color=black">
