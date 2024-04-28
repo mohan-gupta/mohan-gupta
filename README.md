@@ -1,4 +1,4 @@
-<h1>Hi There, I am Mohan <img  src="assets/hi.gif" width="30px"></h1>
+<h1>Hi There, I am Mohan 👋🏼</h1>
 
 <p>My passion lies in the realm of cutting-edge technologies such as Machine Learning, Deep Learning, and Data Science. I'm currently working as a NLP Engineer at <a href="https://textify.ai/">Textify AI</a></p>
 
@@ -65,6 +65,7 @@
 
 <h3>Recent Posts</h3>
 <ul>
+<li><a href = "https://medium.com/@mohan-gupta/catboost-algorithm-2156129d740d">CatBoost Algorithm</a></li>
 <li><a href = "https://medium.com/@mohan-gupta/running-llms-on-cpu-1455356b1b47">Running LLMs on CPU</a></li>
 <li><a href = "https://medium.com/@mohan-gupta/python-best-practices-4ad47c81b9bc">Python Best Practices</a></li>
 <li><a href = "https://medium.com/@mohan-gupta/descriptive-statistics-all-the-fundamentals-you-need-to-know-about-a9ce84697367">Descriptive Statistics — All the fundamentals you need to know.</a></li>
