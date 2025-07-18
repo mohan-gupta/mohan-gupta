@@ -1,6 +1,6 @@
 <h1>Hi There, I am Mohan 👋🏼</h1>
 
-<p>My passion lies in the realm of cutting-edge technologies such as Machine Learning, Deep Learning, and Data Science. I'm currently working as a NLP Engineer at <a href="https://textify.ai/">Textify AI</a></p>
+<p>My passion lies in the realm of cutting-edge technologies such as Machine Learning, Deep Learning, and Data Science. I'm currently working as a NLP Engineer at <a href="https://textifyanalytics.com/">Textify Analytics</a></p>
 
 - 📚 I’m currently working with LLMs.
 - 🤝 Open for collaboration in <b>NLP</b> and <b>Computer Vision</b>.
