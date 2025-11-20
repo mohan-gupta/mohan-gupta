@@ -72,6 +72,7 @@
 
 <h3>Recent Posts</h3>
 <ul>
+<li><a href = "https://medium.com/@mohan-gupta/image-generative-models-89c100190c43">Image Generative Models</a></li>
 <li><a href = "https://medium.com/@mohan-gupta/catboost-algorithm-2156129d740d">CatBoost Algorithm</a></li>
 <li><a href = "https://medium.com/@mohan-gupta/running-llms-on-cpu-1455356b1b47">Running LLMs on CPU</a></li>
 <li><a href = "https://medium.com/@mohan-gupta/python-best-practices-4ad47c81b9bc">Python Best Practices</a></li>
