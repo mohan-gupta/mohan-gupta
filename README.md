@@ -45,6 +45,13 @@
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MLflow-eee?logo=mlflow&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-DVC-eee?logo=dvc&color=black">
 </p>
+<h4>Generative AI</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-eee?logo=langchain&labelColor=black&color=black
+  ">
+  &nbsp&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/LangGraph-eee?logo=langgraph&labelColor=black&color=black">
+</p>
 <h4>Backend</h4>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-FastAPI-eee?logo=fastapi&color=black">
