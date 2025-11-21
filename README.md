@@ -47,8 +47,7 @@
 </p>
 <h4>Generative AI</h4>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-eee?logo=langchain&labelColor=black&color=black
-  ">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-eee?logo=langchain&labelColor=black&color=black">
   &nbsp&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/LangGraph-eee?logo=langgraph&labelColor=black&color=black">
 </p>
