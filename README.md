@@ -17,6 +17,7 @@
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-eee?logo=mysql&logoColor=white&color=black">
   &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-eee?logo=mongodb&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Neo4J-eee?logo=neo4j&logoColor=white&color=black">
 </p>
 <h4>Data Processing and Visualization</h4>
 <p>
